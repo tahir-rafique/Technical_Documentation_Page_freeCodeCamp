@@ -1,1 +1,1 @@
-# 3-Technical-Doc-Page-freeCodeCamp
+# Technical-Doc-Page-freeCodeCamp
